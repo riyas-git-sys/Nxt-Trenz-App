@@ -5,7 +5,6 @@ A fully responsive **eCommerce web application** built with React.js, featuring 
 ## 🚀 Demo
 
 🔗 Live URL: [Nxt Trenz App](https://riyasnxttrndz.ccbp.tech/)  
-🔗 GitHub Repository: [Nxt Trenz GitHub](https://github.com/riyas-git-sys/Nxt-Trenz-App)
 
 ---
 
